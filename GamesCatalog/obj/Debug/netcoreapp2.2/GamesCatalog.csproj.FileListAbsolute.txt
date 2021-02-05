@@ -1,0 +1,14 @@
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\bin\Debug\netcoreapp2.2\GamesCatalog.deps.json
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\bin\Debug\netcoreapp2.2\GamesCatalog.runtimeconfig.json
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\bin\Debug\netcoreapp2.2\GamesCatalog.runtimeconfig.dev.json
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\bin\Debug\netcoreapp2.2\GamesCatalog.dll
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\bin\Debug\netcoreapp2.2\GamesCatalog.pdb
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\obj\Debug\netcoreapp2.2\GamesCatalog.csprojAssemblyReference.cache
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\obj\Debug\netcoreapp2.2\GamesCatalog.csproj.CoreCompileInputs.cache
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\obj\Debug\netcoreapp2.2\GamesCatalog.RazorAssemblyInfo.cache
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\obj\Debug\netcoreapp2.2\GamesCatalog.RazorAssemblyInfo.cs
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\obj\Debug\netcoreapp2.2\GamesCatalog.AssemblyInfoInputs.cache
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\obj\Debug\netcoreapp2.2\GamesCatalog.AssemblyInfo.cs
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\obj\Debug\netcoreapp2.2\GamesCatalog.RazorTargetAssemblyInfo.cache
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\obj\Debug\netcoreapp2.2\GamesCatalog.dll
+C:\Users\FUSE\source\repos\GamesCatalog\GamesCatalog\obj\Debug\netcoreapp2.2\GamesCatalog.pdb
